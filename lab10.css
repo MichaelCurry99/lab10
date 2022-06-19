@@ -1,0 +1,48 @@
+body{
+    background-color: lightgrey;
+}
+
+input{
+    margin-bottom:10px;
+}
+
+header{
+    margin-left: 40%;
+}
+
+Firstname{
+    margin-left: 40%;
+}
+
+Lastname{
+    margin-left: 40%;
+}
+
+username{
+    margin-left: 40%;
+}
+
+password{
+    margin-left: 40%;
+}
+
+email{
+    margin-left: 40%;
+}
+
+number{
+    margin-left: 40%;
+}
+
+box{
+    margin-left: 2250%;
+    margin-top: -200%;
+}
+
+p{
+    margin-left: 50%;
+}
+
+button{
+    margin-left: 45%
+}
